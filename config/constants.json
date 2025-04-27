@@ -9,10 +9,10 @@
 
     "STAR_Y": 100,
 
-    "MOUNTAIN_COLOR": "'#002a50'",
-    "FOG_COLOR": "'#000'",
-    "SKY_COLOR": "'#000010'",
-    "DECORATION_PARTICLE_COLOR": "'#fff'",
+    "MOUNTAIN_COLOR": "'#ff2a50'",
+    "FOG_COLOR": "'#eee'",
+    "SKY_COLOR": "'#eaeaea'",
+    "DECORATION_PARTICLE_COLOR": "'#000'",
 
     "DECORATION_PARTICLES_REPEAT": "600",
 
@@ -90,7 +90,7 @@
     "PLAYER_SPEED": 450,
     "PLAYER_ACCELERATION": 3000,
     "JUMP_DURATION": 0.25,
-    "JUMP_FORCE": 400,
+    "JUMP_FORCE": 4000,
     "JUMP_SPEED_BOOST": 0.5,
 
     "MINIMAP_SCALE": 15,

@@ -1,6 +1,7 @@
 class Enemy extends Character {
     constructor() {
         super();
+        this.health = 0.5;
 
         const settings = pick([
             {

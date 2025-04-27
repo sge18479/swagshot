@@ -164,7 +164,7 @@ class Game {
         G.onMainMenu = null;
 
         P = new Player();
-        P.setWeapon(new Pistol(P));
+        P.setWeapon(new RocketLauncher(P));
 
         W = new World(generateRandomWorld());
 
